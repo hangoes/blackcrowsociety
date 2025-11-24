@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Headline:wght@200..700&display=swap');
+
+body{
+	padding: 0;
+	float: 0;
+	background-color: black;
+	text-align: justify;
+	font-family: "Stack Sans Headline", sans-serif;
+}
+
+.logo img{
+	height: 400px;
+	width: 420px;
+    margin-left:34%;
+}
+
+.ourServices p{
+	margin: 3% 28%;
+	color: white;
+	text-align: center;
+}
+.ourServices h1{
+	padding-left: 30.5%;
+	padding-top: 15%;
+	color: white;
+    font-size:50px;
+}
+
+.options li{
+    float:left;
+    margin-left:9%;
+}
+
+.options ul{
+    list-style: none;
+    margin-left:15%;
+}
+
+.options a{
+    font-weight: 700;
+    font-style:bold;
+    font-size:24px;
+    color:#D3D3D3;
+    text-decoration:none;
+}
+
+.options a:hover{
+    color:white;
+    transition: 0.5s;
+}
+
+.options .active{
+    color: white;
+}
+
+
+/* CSS ABAIXO PAGINA HIRE, todo: EDITAR TEMPLATE MAIS TARDE*/
+
+.job{
+    color: white;
+    margin:10%;
+}
