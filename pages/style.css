@@ -69,13 +69,13 @@ body{
 .linkTree{
 	font-weight: 700;
     font-style:bold;
-    font-size:20px;
-    color:#D3D3D3;
+    font-size:25px;
+    color:white;
     text-decoration:none;
-	padding-left: 36%;
+	padding-left: 40%;
 }
 
 .calltoAction{
 	font-style:bold;
-    color:#D3D3D3;
+    color:white;
 }
