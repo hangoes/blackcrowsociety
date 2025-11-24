@@ -65,3 +65,13 @@ body{
 .serviceImg{
     height:300px;	
 }
+
+.linkTree{
+	font-weight: 700;
+    font-style:bold;
+    font-size:20px;
+    color:#D3D3D3;
+    text-decoration:none;
+	padding-left: 33.3%;
+}
+
